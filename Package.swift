@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "fsiossdk",
     platforms: [
-        .iOS(.v12)
+        .iOS(.v11)
     ],
     products: [
         .library(
@@ -13,7 +13,7 @@ let package = Package(
     ],
     dependencies: [
         .package(name: "SocketIO", url: "https://github.com/socketio/socket.io-client-swift", .upToNextMinor(from: "16.0.0")),
-        .package(name: "Facebook", url: "https://github.com/facebook/facebook-ios-sdk", .upToNextMajor(from: "15.0.0"))
+        .package(name: "Facebook", url: "https://github.com/facebook/facebook-ios-sdk", .upToNextMinor(from: "9.1.0"))
     ],
     targets: [
         .target(
