@@ -2172,84 +2172,1169 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/matthieu\/Desktop\/src\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 585,
+      "length": 6,
+      "value": "\"body\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 627,
+      "length": 6,
+      "value": "\"body\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 684,
+      "length": 11,
+      "value": "\"undefined\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 962,
+      "length": 10,
+      "value": "\"jsonData\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 1044,
+      "length": 8,
+      "value": "\"method\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 1110,
+      "length": 8,
+      "value": "\"method\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 1187,
+      "length": 8,
+      "value": "\"method\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 1275,
+      "length": 7,
+      "value": "\"login\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 1335,
+      "length": 7,
+      "value": "\"login\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "StringLiteral",
       "offset": 2035,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/matthieu\/Desktop\/src\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "StringLiteral",
       "offset": 2429,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/matthieu\/Desktop\/src\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "StringLiteral",
       "offset": 2454,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/matthieu\/Desktop\/src\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "StringLiteral",
       "offset": 2478,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/matthieu\/Desktop\/src\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "Dictionary",
       "offset": 2509,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/matthieu\/Desktop\/src\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 2726,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 4021,
+      "length": 16,
+      "value": "\"error=\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 4036,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 4522,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 4630,
+      "length": 6,
+      "value": "\"Info\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 4646,
+      "length": 7,
+      "value": "\"plist\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 4872,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 4941,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 5010,
+      "length": 10,
+      "value": "\"FSApiKey\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 5284,
+      "length": 3,
+      "value": "\"|\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5349,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5408,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5453,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 5514,
+      "length": 10,
+      "value": "\"https:\/\/\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 5541,
+      "length": 31,
+      "value": "\"\/v1\/components\/list?identity=\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 5596,
+      "length": 17,
+      "value": "\"&mobile_fs_key=\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 6346,
+      "length": 71,
+      "value": "\"Nil while unwrapping UIDevice.current.identifierForVendor?.uuidString\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 6438,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 6629,
+      "length": 135,
+      "value": "\"window.addEventListener('message', function(){  window.webkit.messageHandlers.iosListener.postMessage(JSON.stringify(event.data)); })\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6873,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 6992,
+      "length": 13,
+      "value": "\"iosListener\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 7167,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7239,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 7330,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 7375,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 7430,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 7476,
+      "length": 37,
+      "value": "\"?appmbl=2&origin=sdk&deviceversion=\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 7532,
+      "length": 27,
+      "value": "\"&deviceplatform=ios&UDID=\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 7570,
+      "length": 13,
+      "value": "\"&usertoken=\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7815,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "Dictionary",
+      "offset": 7975,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 8009,
+      "length": 18,
+      "value": "\"&\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 8017,
+      "length": 1,
+      "value": "\"=\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 8026,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 8134,
+      "length": 14,
+      "value": "\"tokenPush@@@\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 8171,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "Array",
+      "offset": 8371,
+      "length": 28,
+      "value": "[\"public_profile\", \"email\"]"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 8540,
+      "length": 12,
+      "value": "\"tokenFB@@@\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 8586,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 8787,
+      "length": 10,
+      "value": "\"https:\/\/\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 8836,
+      "length": 15,
+      "value": "\"self.GAME_URL\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 8905,
+      "length": 8,
+      "value": "\"domain\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9040,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 9095,
+      "length": 10,
+      "value": "\"identity\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 9128,
+      "length": 6,
+      "value": "\"UDID\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 9159,
+      "length": 8,
+      "value": "\"origin\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 9168,
+      "length": 5,
+      "value": "\"App\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 9335,
+      "length": 8,
+      "value": "\"toApp-\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9436,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 9457,
+      "length": 6,
+      "value": "\"data\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 9547,
+      "length": 9,
+      "value": "\"loginFB\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 9664,
+      "length": 12,
+      "value": "\"loginApple\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 9855,
+      "length": 7,
+      "value": "\"token\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 9976,
+      "length": 9,
+      "value": "\"openurl\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 10066,
+      "length": 3,
+      "value": "\"@\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10071,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 10273,
+      "length": 7,
+      "value": "\"share\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 10361,
+      "length": 3,
+      "value": "\"@\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10366,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 11290,
+      "length": 17,
+      "value": "\"share@@@success\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 11376,
+      "length": 17,
+      "value": "\"share@@@success\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 11486,
+      "length": 15,
+      "value": "\"share@@@error\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 11591,
+      "length": 15,
+      "value": "\"share@@@error\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11904,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11940,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11950,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11961,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12127,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12230,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 13123,
+      "length": 6,
+      "value": "\"user\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 13134,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 13196,
+      "length": 10,
+      "value": "\"fullName\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 13211,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 13283,
+      "length": 7,
+      "value": "\"email\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 13295,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 13487,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 13708,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 13795,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 13867,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 13941,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 14015,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 14089,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 14159,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 14198,
+      "length": 357,
+      "value": "\"{\"user\":\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 14218,
+      "length": 1,
+      "value": "\"\", \"email\":\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 14242,
+      "length": 1,
+      "value": "\"\" , \"identityToken\":\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 14283,
+      "length": 1,
+      "value": "\"\" , \"authorizationCode\":\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 14332,
+      "length": 1,
+      "value": "\"\", \"fullName\": {\"namePrefix\":\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 14381,
+      "length": 1,
+      "value": "\"\" , \"givenName\":\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 14414,
+      "length": 1,
+      "value": "\"\" , \"middleName\":\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 14449,
+      "length": 1,
+      "value": "\"\" , \"familyName\":\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 14484,
+      "length": 1,
+      "value": "\"\" , \"nameSuffix\":\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 14519,
+      "length": 1,
+      "value": "\"\" , \"nickname\":\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 14550,
+      "length": 1,
+      "value": "\"\"}}\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 14595,
+      "length": 15,
+      "value": "\"tokenApple@@@\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "StringLiteral",
       "offset": 260,
       "length": 10,
       "value": "\"fsiossdk.FSFullGame\""
     },
     {
-      "filePath": "\/Users\/matthieu\/Desktop\/src\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
       "kind": "StringLiteral",
       "offset": 800,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/matthieu\/Desktop\/src\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
       "kind": "FloatLiteral",
       "offset": 1115,
       "length": 5,
       "value": "200.0"
     },
     {
-      "filePath": "\/Users\/matthieu\/Desktop\/src\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
       "kind": "StringLiteral",
       "offset": 1271,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/matthieu\/Desktop\/src\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
       "kind": "StringLiteral",
       "offset": 1296,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/matthieu\/Desktop\/src\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
       "kind": "StringLiteral",
       "offset": 1320,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/matthieu\/Desktop\/src\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 1585,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2037,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 2894,
+      "length": 6,
+      "value": "\"body\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 2942,
+      "length": 11,
+      "value": "\"undefined\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 3492,
+      "length": 8,
+      "value": "\"method\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 3517,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 3575,
+      "length": 8,
+      "value": "\"resize\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 3634,
+      "length": 8,
+      "value": "\"height\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 3883,
+      "length": 5,
+      "value": "\"url\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 3936,
+      "length": 5,
+      "value": "\"url\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 5093,
+      "length": 16,
+      "value": "\"error=\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 5108,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 5610,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 5718,
+      "length": 6,
+      "value": "\"Info\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 5734,
+      "length": 7,
+      "value": "\"plist\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 5960,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 6029,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 6098,
+      "length": 10,
+      "value": "\"FSApiKey\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 6372,
+      "length": 3,
+      "value": "\"|\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6437,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6591,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6636,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 6884,
+      "length": 10,
+      "value": "\"https:\/\/\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 6911,
+      "length": 31,
+      "value": "\"\/v1\/components\/list?identity=\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 6966,
+      "length": 17,
+      "value": "\"&mobile_fs_key=\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 8268,
+      "length": 71,
+      "value": "\"Nil while unwrapping UIDevice.current.identifierForVendor?.uuidString\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 8360,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 8692,
+      "length": 135,
+      "value": "\"window.addEventListener('message', function(){  window.webkit.messageHandlers.iosListener.postMessage(JSON.stringify(event.data)); })\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10100,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 10219,
+      "length": 13,
+      "value": "\"iosListener\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11816,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 11894,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11966,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 12057,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 12102,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 12157,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 12203,
+      "length": 37,
+      "value": "\"?appmbl=2&origin=sdk&deviceversion=\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 12259,
+      "length": 27,
+      "value": "\"&deviceplatform=ios&UDID=\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 12297,
+      "length": 13,
+      "value": "\"&usertoken=\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 12325,
+      "length": 12,
+      "value": "\"&identity=\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12516,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 12580,
+      "length": 14,
+      "value": "\"tokenPush@@@\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 12617,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12821,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 12876,
+      "length": 10,
+      "value": "\"identity\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 12909,
+      "length": 6,
+      "value": "\"UDID\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 12940,
+      "length": 8,
+      "value": "\"origin\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 12949,
+      "length": 5,
+      "value": "\"App\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 13125,
+      "length": 8,
+      "value": "\"toApp-\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13226,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "kind": "StringLiteral",
+      "offset": 13275,
+      "length": 7,
+      "value": "\"token\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-v5\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
       "kind": "StringLiteral",
       "offset": 267,
       "length": 10,
