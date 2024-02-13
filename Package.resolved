@@ -2,15 +2,6 @@
   "object": {
     "pins": [
       {
-        "package": "Facebook",
-        "repositoryURL": "https://github.com/facebook/facebook-ios-sdk",
-        "state": {
-          "branch": null,
-          "revision": "e14f349945ba3f9516e3292107f42be19fe9fbe5",
-          "version": "9.1.0"
-        }
-      },
-      {
         "package": "SocketIO",
         "repositoryURL": "https://github.com/socketio/socket.io-client-swift",
         "state": {
