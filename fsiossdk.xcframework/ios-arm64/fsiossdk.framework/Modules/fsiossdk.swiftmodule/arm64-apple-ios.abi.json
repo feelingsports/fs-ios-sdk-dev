@@ -2229,84 +2229,84 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "StringLiteral",
       "offset": 1917,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "StringLiteral",
       "offset": 2358,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "StringLiteral",
       "offset": 2383,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "StringLiteral",
       "offset": 2407,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "Dictionary",
       "offset": 2438,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "StringLiteral",
       "offset": 217,
       "length": 10,
       "value": "\"fsiossdk.FSFullGame\""
     },
     {
-      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-sdk\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
       "kind": "StringLiteral",
       "offset": 800,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-sdk\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
       "kind": "FloatLiteral",
       "offset": 1115,
       "length": 5,
       "value": "200.0"
     },
     {
-      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-sdk\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
       "kind": "StringLiteral",
       "offset": 1271,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-sdk\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
       "kind": "StringLiteral",
       "offset": 1296,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-sdk\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
       "kind": "StringLiteral",
       "offset": 1320,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/feelingsports\/Desktop\/mobile-sdk\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSMiniGame.swift",
       "kind": "StringLiteral",
       "offset": 267,
       "length": 10,
