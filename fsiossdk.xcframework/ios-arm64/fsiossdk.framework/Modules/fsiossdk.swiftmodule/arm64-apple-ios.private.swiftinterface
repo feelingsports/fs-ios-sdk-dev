@@ -22,7 +22,7 @@ import _SwiftConcurrencyShims
   @_Concurrency.MainActor(unsafe) public func openPage(completion: @escaping (Swift.String) -> ())
   @available(iOS 13.0, *)
   @_Concurrency.MainActor(unsafe) @objc public func authorizationController(controller: AuthenticationServices.ASAuthorizationController, didCompleteWithAuthorization authorization: AuthenticationServices.ASAuthorization)
-  @_Concurrency.MainActor(unsafe) public var actionCallback: ((_ id: Swift.String) -> Swift.Void)?
+  @_Concurrency.MainActor(unsafe) public var actionCallback: (([Swift.String : Any]) -> Swift.Void)?
   @_Concurrency.MainActor(unsafe) public func setFacebookToken(token: Swift.String)
   @_Concurrency.MainActor(unsafe) public func setGoogleToken(token: Swift.String)
   @objc deinit

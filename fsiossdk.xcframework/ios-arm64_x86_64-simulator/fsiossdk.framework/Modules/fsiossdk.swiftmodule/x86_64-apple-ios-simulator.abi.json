@@ -895,12 +895,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "((Swift.String) -> ())?",
+                "printedName": "(([Swift.String : Any]) -> ())?",
                 "children": [
                   {
                     "kind": "TypeFunc",
                     "name": "Function",
-                    "printedName": "(Swift.String) -> ()",
+                    "printedName": "([Swift.String : Any]) -> ()",
                     "children": [
                       {
                         "kind": "TypeNominal",
@@ -909,9 +909,22 @@
                       },
                       {
                         "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
+                        "name": "Dictionary",
+                        "printedName": "[Swift.String : Any]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "ProtocolComposition",
+                            "printedName": "Any"
+                          }
+                        ],
+                        "usr": "s:SD"
                       }
                     ]
                   }
@@ -920,8 +933,8 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:8fsiossdk10FSFullGameC14actionCallbackySScSgvp",
-            "mangledName": "$s8fsiossdk10FSFullGameC14actionCallbackySScSgvp",
+            "usr": "s:8fsiossdk10FSFullGameC14actionCallbackySDySSypGcSgvp",
+            "mangledName": "$s8fsiossdk10FSFullGameC14actionCallbackySDySSypGcSgvp",
             "moduleName": "fsiossdk",
             "declAttributes": [
               "HasInitialValue",
@@ -939,12 +952,12 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "((Swift.String) -> ())?",
+                    "printedName": "(([Swift.String : Any]) -> ())?",
                     "children": [
                       {
                         "kind": "TypeFunc",
                         "name": "Function",
-                        "printedName": "(Swift.String) -> ()",
+                        "printedName": "([Swift.String : Any]) -> ()",
                         "children": [
                           {
                             "kind": "TypeNominal",
@@ -953,9 +966,22 @@
                           },
                           {
                             "kind": "TypeNominal",
-                            "name": "String",
-                            "printedName": "Swift.String",
-                            "usr": "s:SS"
+                            "name": "Dictionary",
+                            "printedName": "[Swift.String : Any]",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "ProtocolComposition",
+                                "printedName": "Any"
+                              }
+                            ],
+                            "usr": "s:SD"
                           }
                         ]
                       }
@@ -964,8 +990,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:8fsiossdk10FSFullGameC14actionCallbackySScSgvg",
-                "mangledName": "$s8fsiossdk10FSFullGameC14actionCallbackySScSgvg",
+                "usr": "s:8fsiossdk10FSFullGameC14actionCallbackySDySSypGcSgvg",
+                "mangledName": "$s8fsiossdk10FSFullGameC14actionCallbackySDySSypGcSgvg",
                 "moduleName": "fsiossdk",
                 "implicit": true,
                 "accessorKind": "get"
@@ -983,12 +1009,12 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "((Swift.String) -> ())?",
+                    "printedName": "(([Swift.String : Any]) -> ())?",
                     "children": [
                       {
                         "kind": "TypeFunc",
                         "name": "Function",
-                        "printedName": "(Swift.String) -> ()",
+                        "printedName": "([Swift.String : Any]) -> ()",
                         "children": [
                           {
                             "kind": "TypeNominal",
@@ -997,9 +1023,22 @@
                           },
                           {
                             "kind": "TypeNominal",
-                            "name": "String",
-                            "printedName": "Swift.String",
-                            "usr": "s:SS"
+                            "name": "Dictionary",
+                            "printedName": "[Swift.String : Any]",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "ProtocolComposition",
+                                "printedName": "Any"
+                              }
+                            ],
+                            "usr": "s:SD"
                           }
                         ]
                       }
@@ -1008,8 +1047,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:8fsiossdk10FSFullGameC14actionCallbackySScSgvs",
-                "mangledName": "$s8fsiossdk10FSFullGameC14actionCallbackySScSgvs",
+                "usr": "s:8fsiossdk10FSFullGameC14actionCallbackySDySSypGcSgvs",
+                "mangledName": "$s8fsiossdk10FSFullGameC14actionCallbackySDySSypGcSgvs",
                 "moduleName": "fsiossdk",
                 "implicit": true,
                 "accessorKind": "set"
@@ -1026,8 +1065,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:8fsiossdk10FSFullGameC14actionCallbackySScSgvM",
-                "mangledName": "$s8fsiossdk10FSFullGameC14actionCallbackySScSgvM",
+                "usr": "s:8fsiossdk10FSFullGameC14actionCallbackySDySSypGcSgvM",
+                "mangledName": "$s8fsiossdk10FSFullGameC14actionCallbackySDySSypGcSgvM",
                 "moduleName": "fsiossdk",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -2231,35 +2270,35 @@
     {
       "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "StringLiteral",
-      "offset": 1917,
+      "offset": 1602,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "StringLiteral",
-      "offset": 2358,
+      "offset": 2043,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "StringLiteral",
-      "offset": 2383,
+      "offset": 2068,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "StringLiteral",
-      "offset": 2407,
+      "offset": 2092,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "Dictionary",
-      "offset": 2438,
+      "offset": 2123,
       "length": 3,
       "value": "[]"
     },
