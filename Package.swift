@@ -10,15 +10,11 @@ let package = Package(
         .library(
             name: "fsiossdk",
             targets: ["fsiossdk_wrapper"])
-    ],
-    dependencies: [
-        .package(name: "SocketIO", url: "https://github.com/socketio/socket.io-client-swift", .upToNextMinor(from: "16.1.0"))
-    ],
+    ]
     targets: [
         .target(
             name: "fsiossdk_wrapper",
             dependencies: [
-                .product(name: "SocketIO", package: "SocketIO"),
                 .target(name: "fsiossdk")
             ],
             path: "Sources/Wrapper",
