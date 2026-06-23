@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/fsiossdk-Swift.h</key>
 		<data>
-		BcNKjAYSEwfceQ0a2Jqb5rW6NbM=
+		qggkZHgHSFu5ktGK5W6QxNnD9Qo=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -14,23 +14,23 @@
 		</data>
 		<key>Modules/fsiossdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		MNvjqSm1iGhGRK+ox5hLQ9EZN5U=
+		NWqwgKuO3UcpFeQ3rvE5LFNGheg=
 		</data>
 		<key>Modules/fsiossdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		hBZ3dWCecXA3Audhz1VpruB2eDA=
+		Inj3lGa04RSecIGuFNPIXvqNAnU=
 		</data>
 		<key>Modules/fsiossdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		fB+IadMNG8H4oVt6VhVkvrghVag=
+		/4qmz1KyfznNetaS32o1Q2azcnw=
 		</data>
 		<key>Modules/fsiossdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		hBZ3dWCecXA3Audhz1VpruB2eDA=
+		Inj3lGa04RSecIGuFNPIXvqNAnU=
 		</data>
 		<key>Modules/fsiossdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		7ZhA9C5UY727Z1dp8/f8ZiLo8mY=
+		cryQ4sJxXUUcx8357PnvlHXbQ3Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,42 +47,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wjqnU9PkD/eQpitBVwVouBXtY+FaXqhss0gF72xImDA=
+			PEzeCAOjZ6s+LXVuEPYZM1btom02YAxzk4WKSy4XHPU=
 			</data>
 		</dict>
 		<key>Modules/fsiossdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7TOLfplVU9DvPmYbDyERqVIHzMEYAgBAaQTzpb8pJqg=
+			8lFpIpBgpMG9FC3cypAXyAa13LdGplmZAgWfQ+Ousro=
 			</data>
 		</dict>
 		<key>Modules/fsiossdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ubqxnUozuMa/QYWLGfcs0lSgG35RG+WGaSSxczWf/fI=
+			w/xv3A3mwGhKyuJaLE7xNqYL8yz5RJjbAPZSR2sR770=
 			</data>
 		</dict>
 		<key>Modules/fsiossdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sBCrmEQszrI7ThqtS8892V4+b+9ebpooCchCzh+1qhA=
+			zCoaKVgVmZiCZnygXDEy/uM5brWObZTtIPKV/qNKaAM=
 			</data>
 		</dict>
 		<key>Modules/fsiossdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ubqxnUozuMa/QYWLGfcs0lSgG35RG+WGaSSxczWf/fI=
+			w/xv3A3mwGhKyuJaLE7xNqYL8yz5RJjbAPZSR2sR770=
 			</data>
 		</dict>
 		<key>Modules/fsiossdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YkcZwwSvtAumGtZ0QRHo/vb4KrQ7vBW9onTpW8XTLOU=
+			dfGkAuqwof4gIO0dtfnCqde4EG1OIERKnooYNMMR0yE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

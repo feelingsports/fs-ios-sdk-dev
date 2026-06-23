@@ -307,18 +307,25 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 
-@class WKUserContentController;
-@class WKScriptMessage;
 @class NSCoder;
-@class ASAuthorizationController;
-@class ASAuthorization;
 SWIFT_CLASS("_TtC8fsiossdk10FSFullGame")
-@interface FSFullGame : UIView <ASAuthorizationControllerDelegate, WKScriptMessageHandler>
-- (void)userContentController:(WKUserContentController * _Nonnull)userContentController didReceiveScriptMessage:(WKScriptMessage * _Nonnull)message;
+@interface FSFullGame : UIView
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
 - (void)layoutSubviews;
-- (void)authorizationController:(ASAuthorizationController * _Nonnull)controller didCompleteWithAuthorization:(ASAuthorization * _Nonnull)authorization SWIFT_AVAILABILITY(ios,introduced=13.0);
+- (void)didMoveToSuperview;
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+@end
+
+@class ASAuthorizationController;
+@class ASAuthorization;
+@interface FSFullGame (SWIFT_EXTENSION(fsiossdk)) <ASAuthorizationControllerDelegate>
+- (void)authorizationController:(ASAuthorizationController * _Nonnull)controller didCompleteWithAuthorization:(ASAuthorization * _Nonnull)authorization SWIFT_AVAILABILITY(ios,introduced=13.0);
+@end
+
+@class WKUserContentController;
+@class WKScriptMessage;
+@interface FSFullGame (SWIFT_EXTENSION(fsiossdk)) <WKScriptMessageHandler>
+- (void)userContentController:(WKUserContentController * _Nonnull)userContentController didReceiveScriptMessage:(WKScriptMessage * _Nonnull)message;
 @end
 
 SWIFT_CLASS("_TtC8fsiossdk10FSMiniGame")
@@ -652,18 +659,25 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 #if defined(__OBJC__)
 
-@class WKUserContentController;
-@class WKScriptMessage;
 @class NSCoder;
-@class ASAuthorizationController;
-@class ASAuthorization;
 SWIFT_CLASS("_TtC8fsiossdk10FSFullGame")
-@interface FSFullGame : UIView <ASAuthorizationControllerDelegate, WKScriptMessageHandler>
-- (void)userContentController:(WKUserContentController * _Nonnull)userContentController didReceiveScriptMessage:(WKScriptMessage * _Nonnull)message;
+@interface FSFullGame : UIView
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
 - (void)layoutSubviews;
-- (void)authorizationController:(ASAuthorizationController * _Nonnull)controller didCompleteWithAuthorization:(ASAuthorization * _Nonnull)authorization SWIFT_AVAILABILITY(ios,introduced=13.0);
+- (void)didMoveToSuperview;
 - (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+@end
+
+@class ASAuthorizationController;
+@class ASAuthorization;
+@interface FSFullGame (SWIFT_EXTENSION(fsiossdk)) <ASAuthorizationControllerDelegate>
+- (void)authorizationController:(ASAuthorizationController * _Nonnull)controller didCompleteWithAuthorization:(ASAuthorization * _Nonnull)authorization SWIFT_AVAILABILITY(ios,introduced=13.0);
+@end
+
+@class WKUserContentController;
+@class WKScriptMessage;
+@interface FSFullGame (SWIFT_EXTENSION(fsiossdk)) <WKScriptMessageHandler>
+- (void)userContentController:(WKUserContentController * _Nonnull)userContentController didReceiveScriptMessage:(WKScriptMessage * _Nonnull)message;
 @end
 
 SWIFT_CLASS("_TtC8fsiossdk10FSMiniGame")

@@ -10,24 +10,28 @@ import WebKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency public class FSFullGame : UIKit.UIView, AuthenticationServices.ASAuthorizationControllerDelegate, WebKit.WKScriptMessageHandler {
-  @_Concurrency.MainActor @preconcurrency @objc public func userContentController(_ userContentController: WebKit.WKUserContentController, didReceive message: WebKit.WKScriptMessage)
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency public class FSFullGame : UIKit.UIView {
   @_Concurrency.MainActor @preconcurrency public var userToken: Swift.String?
   @_Concurrency.MainActor @preconcurrency public var pushToken: Swift.String?
   @_Concurrency.MainActor @preconcurrency public var FSApiKey: Swift.String?
   @_Concurrency.MainActor @preconcurrency public var extras: [Swift.String : Swift.String]?
   @_Concurrency.MainActor @preconcurrency public var gameId: Swift.String
-  #if compiler(>=5.3) && $NonescapableTypes
-  @_Concurrency.MainActor @preconcurrency public init(id: Swift.String?, userToken: Swift.String? = "", pushToken: Swift.String? = "", FSApiKey: Swift.String? = "", extras: [Swift.String : Swift.String]? = [:], frame: CoreFoundation.CGRect? = CGRect())
-  #endif
-  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func layoutSubviews()
-  @_Concurrency.MainActor @preconcurrency public func openPage(completion: @escaping (Swift.String) -> ())
-  @available(iOS 13.0, *)
-  @_Concurrency.MainActor @preconcurrency @objc public func authorizationController(controller: AuthenticationServices.ASAuthorizationController, didCompleteWithAuthorization authorization: AuthenticationServices.ASAuthorization)
   @_Concurrency.MainActor @preconcurrency public var actionCallback: (([Swift.String : Any]) -> Swift.Void)?
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor @preconcurrency public init(id: Swift.String, userToken: Swift.String? = nil, pushToken: Swift.String? = nil, FSApiKey: Swift.String? = nil, extras: [Swift.String : Swift.String]? = nil, frame: CoreFoundation.CGRect = .zero)
+  #endif
+  @objc deinit
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func layoutSubviews()
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func didMoveToSuperview()
   @_Concurrency.MainActor @preconcurrency public func setFacebookToken(token: Swift.String)
   @_Concurrency.MainActor @preconcurrency public func setGoogleToken(token: Swift.String)
-  @objc deinit
+}
+extension fsiossdk.FSFullGame : WebKit.WKScriptMessageHandler {
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func userContentController(_ userContentController: WebKit.WKUserContentController, didReceive message: WebKit.WKScriptMessage)
+}
+extension fsiossdk.FSFullGame : AuthenticationServices.ASAuthorizationControllerDelegate {
+  @available(iOS 13.0, *)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func authorizationController(controller: AuthenticationServices.ASAuthorizationController, didCompleteWithAuthorization authorization: AuthenticationServices.ASAuthorization)
 }
 extension fsiossdk.FSMiniGame : UIKit.UIScrollViewDelegate {
   #if compiler(>=5.3) && $NonescapableTypes

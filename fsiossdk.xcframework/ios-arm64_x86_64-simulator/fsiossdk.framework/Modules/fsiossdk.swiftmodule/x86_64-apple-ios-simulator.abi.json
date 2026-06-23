@@ -6,29 +6,18 @@
     "children": [
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "fsiossdk"
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
-        "moduleName": "fsiossdk"
+        "moduleName": "fsiossdk",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
         "name": "WebKit",
         "printedName": "WebKit",
-        "declKind": "Import",
-        "moduleName": "fsiossdk"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "fsiossdk"
       },
@@ -44,43 +33,6 @@
         "name": "FSFullGame",
         "printedName": "FSFullGame",
         "children": [
-          {
-            "kind": "Function",
-            "name": "userContentController",
-            "printedName": "userContentController(_:didReceive:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKUserContentController",
-                "printedName": "WebKit.WKUserContentController",
-                "usr": "c:objc(cs)WKUserContentController"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "WKScriptMessage",
-                "printedName": "WebKit.WKScriptMessage",
-                "usr": "c:objc(cs)WKScriptMessage"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@fsiossdk@objc(cs)FSFullGame(im)userContentController:didReceiveScriptMessage:",
-            "mangledName": "$s8fsiossdk10FSFullGameC21userContentController_10didReceiveySo06WKUsereF0C_So15WKScriptMessageCtF",
-            "moduleName": "fsiossdk",
-            "objc_name": "userContentController:didReceiveScriptMessage:",
-            "declAttributes": [
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
           {
             "kind": "Var",
             "name": "userToken",
@@ -110,7 +62,8 @@
               "Preconcurrency",
               "Custom",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "hasStorage": true,
             "accessors": [
@@ -660,237 +613,6 @@
             ]
           },
           {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(id:userToken:pushToken:FSApiKey:extras:frame:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "FSFullGame",
-                "printedName": "fsiossdk.FSFullGame",
-                "usr": "c:@M@fsiossdk@objc(cs)FSFullGame"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "hasDefaultArg": true,
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "hasDefaultArg": true,
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Swift.String?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "hasDefaultArg": true,
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "[Swift.String : Swift.String]?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Dictionary",
-                    "printedName": "[Swift.String : Swift.String]",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "String",
-                        "printedName": "Swift.String",
-                        "usr": "s:SS"
-                      }
-                    ],
-                    "usr": "s:SD"
-                  }
-                ],
-                "hasDefaultArg": true,
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "CoreFoundation.CGRect?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "CGRect",
-                    "printedName": "CoreFoundation.CGRect",
-                    "usr": "c:@S@CGRect"
-                  }
-                ],
-                "hasDefaultArg": true,
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "s:8fsiossdk10FSFullGameC2id9userToken04pushF08FSApiKey6extras5frameACSSSg_A3JSDyS2SGSgSo6CGRectVSgtcfc",
-            "mangledName": "$s8fsiossdk10FSFullGameC2id9userToken04pushF08FSApiKey6extras5frameACSSSg_A3JSDyS2SGSgSo6CGRectVSgtcfc",
-            "moduleName": "fsiossdk",
-            "declAttributes": [
-              "Preconcurrency",
-              "Custom",
-              "AccessControl"
-            ],
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Function",
-            "name": "layoutSubviews",
-            "printedName": "layoutSubviews()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@fsiossdk@objc(cs)FSFullGame(im)layoutSubviews",
-            "mangledName": "$s8fsiossdk10FSFullGameC14layoutSubviewsyyF",
-            "moduleName": "fsiossdk",
-            "overriding": true,
-            "objc_name": "layoutSubviews",
-            "declAttributes": [
-              "Dynamic",
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "Override",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "openPage",
-            "printedName": "openPage(completion:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(Swift.String) -> ()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ]
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:8fsiossdk10FSFullGameC8openPage10completionyySSc_tF",
-            "mangledName": "$s8fsiossdk10FSFullGameC8openPage10completionyySSc_tF",
-            "moduleName": "fsiossdk",
-            "declAttributes": [
-              "Preconcurrency",
-              "Custom",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "authorizationController",
-            "printedName": "authorizationController(controller:didCompleteWithAuthorization:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "ASAuthorizationController",
-                "printedName": "AuthenticationServices.ASAuthorizationController",
-                "usr": "c:objc(cs)ASAuthorizationController"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "ASAuthorization",
-                "printedName": "AuthenticationServices.ASAuthorization",
-                "usr": "c:objc(cs)ASAuthorization"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "c:@M@fsiossdk@objc(cs)FSFullGame(im)authorizationController:didCompleteWithAuthorization:",
-            "mangledName": "$s8fsiossdk10FSFullGameC23authorizationController10controller28didCompleteWithAuthorizationySo015ASAuthorizationE0C_So0K0CtF",
-            "moduleName": "fsiossdk",
-            "intro_iOS": "13.0",
-            "objc_name": "authorizationController:didCompleteWithAuthorization:",
-            "declAttributes": [
-              "ObjC",
-              "Preconcurrency",
-              "Custom",
-              "AccessControl",
-              "Available"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
             "kind": "Var",
             "name": "actionCallback",
             "printedName": "actionCallback",
@@ -944,7 +666,8 @@
               "Preconcurrency",
               "Custom",
               "HasStorage",
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "hasStorage": true,
             "accessors": [
@@ -1078,6 +801,173 @@
             ]
           },
           {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(id:userToken:pushToken:FSApiKey:extras:frame:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FSFullGame",
+                "printedName": "fsiossdk.FSFullGame",
+                "usr": "c:@M@fsiossdk@objc(cs)FSFullGame"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[Swift.String : Swift.String]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "hasDefaultArg": true,
+                "usr": "c:@S@CGRect"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:8fsiossdk10FSFullGameC2id9userToken04pushF08FSApiKey6extras5frameACSS_SSSgA2JSDyS2SGSgSo6CGRectVtcfc",
+            "mangledName": "$s8fsiossdk10FSFullGameC2id9userToken04pushF08FSApiKey6extras5frameACSS_SSSgA2JSDyS2SGSgSo6CGRectVtcfc",
+            "moduleName": "fsiossdk",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "layoutSubviews",
+            "printedName": "layoutSubviews()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@fsiossdk@objc(cs)FSFullGame(im)layoutSubviews",
+            "mangledName": "$s8fsiossdk10FSFullGameC14layoutSubviewsyyF",
+            "moduleName": "fsiossdk",
+            "overriding": true,
+            "objc_name": "layoutSubviews",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "didMoveToSuperview",
+            "printedName": "didMoveToSuperview()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@fsiossdk@objc(cs)FSFullGame(im)didMoveToSuperview",
+            "mangledName": "$s8fsiossdk10FSFullGameC18didMoveToSuperviewyyF",
+            "moduleName": "fsiossdk",
+            "overriding": true,
+            "objc_name": "didMoveToSuperview",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "Override",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
             "kind": "Function",
             "name": "setFacebookToken",
             "printedName": "setFacebookToken(token:)",
@@ -1101,7 +991,8 @@
             "declAttributes": [
               "Preconcurrency",
               "Custom",
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -1166,6 +1057,84 @@
               "Override"
             ],
             "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "userContentController",
+            "printedName": "userContentController(_:didReceive:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKUserContentController",
+                "printedName": "WebKit.WKUserContentController",
+                "usr": "c:objc(cs)WKUserContentController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "WKScriptMessage",
+                "printedName": "WebKit.WKScriptMessage",
+                "usr": "c:objc(cs)WKScriptMessage"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@fsiossdk@objc(cs)FSFullGame(im)userContentController:didReceiveScriptMessage:",
+            "mangledName": "$s8fsiossdk10FSFullGameC21userContentController_10didReceiveySo06WKUsereF0C_So15WKScriptMessageCtF",
+            "moduleName": "fsiossdk",
+            "objc_name": "userContentController:didReceiveScriptMessage:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "authorizationController",
+            "printedName": "authorizationController(controller:didCompleteWithAuthorization:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ASAuthorizationController",
+                "printedName": "AuthenticationServices.ASAuthorizationController",
+                "usr": "c:objc(cs)ASAuthorizationController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ASAuthorization",
+                "printedName": "AuthenticationServices.ASAuthorization",
+                "usr": "c:objc(cs)ASAuthorization"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@fsiossdk@objc(cs)FSFullGame(im)authorizationController:didCompleteWithAuthorization:",
+            "mangledName": "$s8fsiossdk10FSFullGameC23authorizationController10controller28didCompleteWithAuthorizationySo015ASAuthorizationE0C_So0K0CtF",
+            "moduleName": "fsiossdk",
+            "intro_iOS": "13.0",
+            "objc_name": "authorizationController:didCompleteWithAuthorization:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "Available"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -1176,6 +1145,7 @@
           "Preconcurrency",
           "Custom",
           "AccessControl",
+          "RawDocComment",
           "ObjC"
         ],
         "superclassUsr": "c:objc(cs)UIView",
@@ -2319,77 +2289,70 @@
     {
       "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "StringLiteral",
-      "offset": 2223,
+      "offset": 1990,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
-      "kind": "StringLiteral",
-      "offset": 2589,
+      "kind": "Array",
+      "offset": 2337,
       "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
-      "kind": "StringLiteral",
-      "offset": 2614,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
-      "kind": "StringLiteral",
-      "offset": 2638,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
-      "kind": "Dictionary",
-      "offset": 2669,
-      "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 2374,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
+      "kind": "StringLiteral",
+      "offset": 2416,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "BooleanLiteral",
-      "offset": 4841,
+      "offset": 2798,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "IntegerLiteral",
-      "offset": 4936,
+      "offset": 2887,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "IntegerLiteral",
-      "offset": 5005,
+      "offset": 2921,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "BooleanLiteral",
-      "offset": 5173,
+      "offset": 3089,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "IntegerLiteral",
-      "offset": 5264,
+      "offset": 3174,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/feelingsports\/Desktop\/mobile\/mobile-native-sdk\/fs-ios-sdk-src\/fsiossdk\/FSFullGame.swift",
       "kind": "IntegerLiteral",
-      "offset": 5337,
+      "offset": 3208,
       "length": 1,
       "value": "0"
     },
